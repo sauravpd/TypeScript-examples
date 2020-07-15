@@ -7,6 +7,7 @@ var Student = /** @class */ (function () {
     };
     return Student;
 }());
+
 var studentObj1 = new Student();
 studentObj1.rollNo = 1111;
 studentObj1.studentName = "Steve";
